@@ -1,2 +1,1 @@
-# Calculator
-JAVASCRIPT PROJECT
+https://ronakdadhich.github.io/Calculator/
